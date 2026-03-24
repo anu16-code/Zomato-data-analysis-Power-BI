@@ -8,6 +8,7 @@ Key Insights
 - Average price comparison across cities
 - Top 10 highest-rated restaurants
 - Cuisine distribution
+- Cleaned real-world messy data using Power Query
 
 Tools Used
 
@@ -16,4 +17,4 @@ Tools Used
 - Data Visualization
 
 Dashboard Preview
-<img width="1366" height="768" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/c6b88bac-2b7d-4919-bc81-2a2387490058" />
+ <img width="1366" height="768" alt="dashboard_preview_jpg" src="https://github.com/user-attachments/assets/c3b45d3d-dd75-4583-90f5-45b2aef555e6" />
